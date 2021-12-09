@@ -1,6 +1,6 @@
 # Les travaux d'Héraclès - Premier des travaux : le lion de Némée
 
-Prérequis : cloner ce *repository*.
+Project fini
 
 ## Préparation
 
